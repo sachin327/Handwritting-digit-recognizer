@@ -10,7 +10,15 @@
  
 
 m is number of examples
+ 
+
 Y is actual output
+
+ 
 A2 is predicted output
+
+ 
 lambda_ is a regularization term to reduce over fitting
+
+ 
 W1 and W2 are weights of neural network

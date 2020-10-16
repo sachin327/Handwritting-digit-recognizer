@@ -1,6 +1,14 @@
  Loss function
 =
   cost = -1/m *np.sum(np.sum(((Y*np.log(A2)+(1-Y)*np.log(1-A2))))) + (lambda_/(2*m))*(np.sum(np.sum(W1*W1))+np.sum(np.sum(W2*W2))) 
+  
+  
+  
+
+
+ 
+ 
+
 m is number of examples
 Y is actual output
 A2 is predicted output
